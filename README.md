@@ -26,6 +26,9 @@
 
 ---
 
+[![An image of @mayankvyas1306's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankvyas1306)](https://holopin.io/@mayankvyas1306)
+
+---
 
 ## 🌐 Connect With Me  
 
