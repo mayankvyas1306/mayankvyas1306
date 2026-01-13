@@ -14,15 +14,22 @@
 ## 🛠 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌌 Featured Projects  
+## 🌌 Featured Projects
 
-🔹 **Minesweeper in C++** – Unique version with score tracking & special features  
-🔹 **Rock Paper Scissors Game in C++** with graphics  
+🔹 **AI-Powered Code Generation Micro-SaaS**  
+A full-stack AI-powered micro-SaaS platform enabling real-time code generation and conversational assistance using Google Gemini.
+
+🔹 **Orbital CLI – Autonomous AI Assistant**  
+An autonomous AI-powered command-line tool for AI chat, web search, and code generation with persistent context and secure authentication.
+
+🔹 **Cafeteria Order Tracker API**  
+A backend REST API for managing cafeteria orders with status tracking, validation middleware, and MongoDB-based persistence.
+
 
 ---
 
